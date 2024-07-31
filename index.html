@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gerador de Etiquetas</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Gerador de Etiquetas</h1>
+        <form id="labelForm">
+            <label for="numEtiquetas">Quantidade de Etiquetas:</label>
+            <input type="number" id="numEtiquetas" name="numEtiquetas" required>
+
+            <label for="nome">Nome (abaixo do número):</label>
+            <input type="text" id="nome" name="nome" required>
+
+            <button type="submit">Gerar Etiquetas</button>
+        </form>
+
+        <div id="labelsContainer"></div>
+
+        <button id="printBtn">Imprimir</button>
+        <button id="downloadPdfBtn">Baixar em PDF</button>
+        <button id="downloadWordBtn">Baixar em Word</button>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
