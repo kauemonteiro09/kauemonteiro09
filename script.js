@@ -28,4 +28,19 @@ document.getElementById('printBtn').addEventListener('click', function() {
     window.print();
 });
 
-// Funções para download em PDF e Word serão adicionadas posteriormente
+document.getElementById('downloadPdfBtn').addEventListener('click', function() {
+    const { jsPDF } = window.jspdf;
+    const doc = new jsPDF();
+
+    const labels = document.querySelectorAll('.label');
+    labels.forEach((label, index) => {
+        const number = label.querySelector('.number').textContent;
+        const name = label.querySelector('.name').textContent;
+        doc.text(`Número: ${number}`, 10, 10 + (index * 20));
+        doc.text(`Nome: ${name}`, 10, 20 + (index * 20));
+    });
+
+    doc.save('etiquetas.pdf');
+});
+
+// Função para download em Word será adicionada posteriormente
