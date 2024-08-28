@@ -1,5 +1,7 @@
+
+
 Boas vindas ao meu perfil 💙💙
-Meu nome é Raimundo Kauê Furtado
+###Meu nome é **Raimundo Kauê Furtado**
 
 Estou estudando na Alura  😎
 Estou me desenvolvendo na linguagem JavaScript 😍
