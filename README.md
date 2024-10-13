@@ -1,6 +1,6 @@
 # Aprendizado de Front-End - Fundamentos
 
-Bem-vindo ao meu repositório principal! Aqui estou documentando minha jornada de aprendizado no desenvolvimento **front-end**, focando nos fundamentos essenciais para me tornar um desenvolvedor web.
+🌟 Bem-vindo ao meu repositório principal! Aqui estou documentando minha jornada de aprendizado no desenvolvimento **front-end**, focando nos fundamentos essenciais para me tornar um desenvolvedor web.
 
 ## Sobre o Repositório
 
@@ -13,19 +13,23 @@ Este repositório contém projetos, exercícios e anotações que refletem o pro
 
 ## Tecnologias e Ferramentas
 
-- HTML
-- CSS
-- JavaScript
-- Git e GitHub
-- VS Code
+🛠️ As tecnologias e ferramentas utilizadas incluem:
+
+- ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) HTML
+- ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) CSS
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) JavaScript
+- ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) Git
+- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) GitHub
+- ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) VS Code
+- ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) Figma
 
 ## Objetivo
 
-Meu objetivo é **me tornar um desenvolvedor front-end** competente, capaz de criar sites e aplicações web responsivos, interativos e acessíveis. Estou sempre buscando aprimorar minhas habilidades e aprender novas tecnologias.
+🎯 Meu objetivo é **me tornar um desenvolvedor front-end** competente, capaz de criar sites e aplicações web responsivos, interativos e acessíveis. Estou sempre buscando aprimorar minhas habilidades e aprender novas tecnologias.
 
 ## Projetos
 
-Dentro deste repositório, você encontrará diferentes projetos que ilustram minha evolução, incluindo:
+🔍 Dentro deste repositório, você encontrará diferentes projetos que ilustram minha evolução, incluindo:
 
 - Páginas simples e estáticas
 - Ferramentas interativas
@@ -34,11 +38,9 @@ Dentro deste repositório, você encontrará diferentes projetos que ilustram mi
 
 ## Conclusão
 
-Este é apenas o começo da minha jornada no desenvolvimento web. Acompanhe meu progresso e fique à vontade para colaborar ou dar feedback sobre os projetos!
+🚀 Este é apenas o começo da minha jornada no desenvolvimento web. Acompanhe meu progresso e fique à vontade para colaborar ou dar feedback sobre os projetos!
 
-
-Você pode entrar em contato comigo 📫 ❤️
-kauemonteiro09@gmail.com 🦥
+📫 Você pode entrar em contato comigo: kauemonteiro09@gmail.com ❤️
 
 @alurastartestudante
 
