@@ -23,6 +23,10 @@ Este repositório contém projetos, exercícios e anotações que refletem o pro
 - ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) 
 - ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) 
 
+## Experiência como Professor
+
+👨‍🏫 Sou professor de Tecnologia nas escolas estaduais de São Paulo há 1 ano, onde ensino conceitos fundamentais de programação e desenvolvimento web para meus alunos.
+
 ## Objetivo
 
 🎯 Meu objetivo é **me tornar um desenvolvedor front-end** competente, capaz de criar sites e aplicações web responsivos, interativos e acessíveis. Estou sempre buscando aprimorar minhas habilidades e aprender novas tecnologias.
